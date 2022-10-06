@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	background-color: #999;
+}
+.caja_texto {
+	width: 500px;
+	height: 300px;
+}
+.botoncito {
+	color: #FFF;
+	background-color: #000;
+	border: 1px solid #F90;
+	width: 100px;
+}
